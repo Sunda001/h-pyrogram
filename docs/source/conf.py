@@ -9,7 +9,7 @@ project = 'Pyrogram-Hosting'
 copyright = '2020 - 2021, Sakty'
 author = 'Sakty'
 
-version = __version__
+version = "0.17.1"
 release = 'stable'
 
 extensions = [
