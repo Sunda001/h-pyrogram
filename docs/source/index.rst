@@ -5,7 +5,7 @@ Pyrogram-Hosting's Documentation
 
 About Pyrogram
 -----------------
-Pyrogram is an elegant, easy-to-use [Telegram](https://telegram.org/) client library and framework written from the ground up in Python and C. It enables you to easily create custom apps for both user and bot identities (bot API alternative) via the [MTProto API](https://docs.pyrogram.org/topics/mtproto-vs-botapi).
+Pyrogram is an elegant, easy-to-use `Telegram <https://telegram.org/>`_ client library and framework written from the ground up in Python and C. It enables you to easily create custom apps for both user and bot identities (bot API alternative) via the `MTProto API <https://docs.pyrogram.org/topics/mtproto-vs-botapi>`_.
 
 
 Prerequisites
