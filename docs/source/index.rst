@@ -10,7 +10,7 @@ About Pyrogram
 
 Prerequisites
 -------------
-* Python_ 3.5.3 or higher.
+* Python 3.5.3 or higher.
 * Telegram API key (API ID and hash) from https://my.telegram.org/apps.
 * Some basic understanding would also be helpful.
 
