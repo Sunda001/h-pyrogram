@@ -27,7 +27,7 @@ pygments_style = "monokai"
 pagename = "Pyrogram-Hosting Documentation"
 html_title = "Pyrogram-Hosting Documentation"
 html_short_title = "Pyrogram-Hosting"
-html_show_sourcelink = True
+html_show_sourcelink = False
 html_show_sphinx = False
 html_show_copyright = False
 html_theme = "sphinx_rtd_theme"
@@ -58,7 +58,7 @@ html_theme_options = {
     'collapse_navigation': True,
     'sticky_navigation': True,
     'style_external_links': False,
-    'style_nav_header_background': '#EF3449'
+    'style_nav_header_background': '#0211e6'
 }
 
 html_context = {
