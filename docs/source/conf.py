@@ -57,7 +57,7 @@ html_context = {
     # Our last updated format.
     'l_updated': strftime('%b %d, %Y'),
     # Enable the "Edit in GitHub link within the header of each page.
-    'display_github': False,
+    'display_github': True,
     'github_user': 'pyrogram',
     'github_repo': 'pyrogram',
     'github_version': 'master',
