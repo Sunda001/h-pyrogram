@@ -43,14 +43,6 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3', None)
 }
 
-autodoc_default_options = {
-    'member-order': 'bysource',
-    'undoc-members': True,
-    'show-inheritance': True,
-    'exclude-members': '__init__, __main__',
-    'ignore-module-all': True
-}
-
 html_theme_options = {
     'canonical_url': 'heroku-pyrogram.readthedocs.io',
     'logo_only': False,
