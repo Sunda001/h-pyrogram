@@ -27,7 +27,7 @@ pygments_style = "monokai"
 pagename = "Pyrogram-Hosting Documentation"
 html_title = "Pyrogram-Hosting Documentation"
 html_short_title = "Pyrogram-Hosting"
-html_show_sourcelink = False
+html_show_sourcelink = True
 html_show_sphinx = False
 html_show_copyright = False
 html_theme = "sphinx_rtd_theme"
@@ -65,7 +65,7 @@ html_context = {
     # Our last updated format.
     'l_updated': strftime('%b %d, %Y'),
     # Enable the "Edit in GitHub link within the header of each page.
-    'display_github': True,
+    'display_github': False,
     'github_user': 'pyrogram',
     'github_repo': 'pyrogram',
     'github_version': 'master',
